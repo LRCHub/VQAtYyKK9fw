@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Keep Their Heads Ringin'",
+  "base_artist": "Dr. Dre",
+  "createdAt": "2026-03-10T22:35:28.229783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/01_Keep_Their_Heads_Ringin'_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin",
+      "artist": "Soundtrack",
+      "has_synced": true,
+      "path": "select/02_Keep_Their_Heads_Ringin_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Soundtrack",
+      "has_synced": true,
+      "path": "select/03_Keep_Their_Heads_Ringin'_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep their heads ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/04_Keep_their_heads_ringin'_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/05_Keep_Their_Heads_Ringin'_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/06_Keep_Their_Heads_Ringin'_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/07_Keep_Their_Heads_Ringin'_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/08_Keep_Their_Heads_Ringin_Dr._Dre.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr Dre",
+      "has_synced": false,
+      "path": "select/09_Keep_Their_Heads_Ringin'_Dr_Dre.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/10_Keep_Their_Heads_Ringin'_Dr._Dre.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep Their Heads Ringin'",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_Their_Heads_Ringin'_Dr._Dre.txt"
+    }
+  ]
+}
